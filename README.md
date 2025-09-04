@@ -1,2 +1,3 @@
 # odin-recipes
-# This is an attempt at creating a website with lings as well as lists.
+# This is an attempt at creating a website with links as well as lists.
+# Hopefully this goes well.
